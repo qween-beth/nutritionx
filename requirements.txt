@@ -1,0 +1,8 @@
+phidata
+google-generativeai
+streamlit
+plotly
+pandas
+openai
+streamlit-shadcn-ui
+#py -m streamlit run app.py
